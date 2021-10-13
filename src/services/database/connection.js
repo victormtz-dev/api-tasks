@@ -15,4 +15,4 @@ import config from "../../config/config";
   }
 })();
 
-//MONGODB_URI=mongodb+srv://victor:martinez13@cluster0.4z731.mongodb.net/HospitalesCovid?retryWrites=true&w=majority
+
